@@ -12,11 +12,14 @@ Citation: Coming soon.
 
 This computational framework is developed by Atif Khan Ph.D. and Juilee Thakar Ph.D. from the University of Rochester Medical Center, Rochester NY. For more information, please contact:
 
+
+
 Dr. Juilee Thakar
 
 Deparment of Microbiology and Immunology, and 
 
 Department of Biostatistics and Computational Biology 
+
 
 
 University of Rochester Medical Center
